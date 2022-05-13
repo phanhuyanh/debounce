@@ -36,8 +36,7 @@ defmodule Debouncex.MixProject do
     [
       name: "debouncex",
       licenses: ["MIT"],
-      files: ~w(lib priv .formatter.exs mix.exs README* readme* LICENSE*
-                license* CHANGELOG* changelog* src),
+      files: ~w(lib .formatter.exs mix.exs README*),
       links: %{"GitHub" => "https://github.com/phanhuyanh/debounce"}
     ]
   end
