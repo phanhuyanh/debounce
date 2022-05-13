@@ -24,3 +24,5 @@ elixir_debounce-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/doc
