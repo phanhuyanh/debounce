@@ -11,7 +11,7 @@ defmodule Debouncex.MixProject do
       description: "A process debouncer for Elixir",
       package: package(),
       name: "Debouncex",
-      source_url: "https://github.com/phanhuyanh/debouncex",
+      source_url: "https://github.com/phanhuyanh/debounce",
       docs: [
         main: "Debouncex"
       ]
